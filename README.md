@@ -1,9 +1,18 @@
 # Zettelkasten notes
+
+1. [Summary](#summary)
+2. [Fleeting notes](#fleeting-notes)
+3. [Literature](#literature)
+4. [Permanent](#permanent)
+5. [bash_profile](#bash_profile)
+6. [Vimrc](#vimrc)
+
+## Summary
 This is my method for creating literature notes and writing.
 
-1. Tags written as comments in .md.
+1. Tags written as comments in .md. But another option seems to work without rendering (remove the backslash to hide metadata tag);
 * < !-- [[tag1]] -- >
-* < !-- [[tag2]] -- >
+* \[_metadata_:tags]:- "tag3 metadata tag4"
 2. Citations are written as @key, which will be recognised by latex_engine: xelatex and reference to my master bibliography.
 3. There are three types of filenames: timestamp-notetype-filename.md.
 	- 202106231101-fleet-one_note.md
