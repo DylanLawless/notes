@@ -79,3 +79,9 @@ Figure 2 - repeated
 ![Figure 2](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41576-021-00378-0/MediaObjects/41576_2021_378_Fig2_HTML.png)
 > a | HIV-infected cells expressing protective HLA-B alleles tend to present a more diverse and more structurally conserved set of HIV epitopes compared to non-protective alleles. Interactions with protective alleles tend to produce a more polyfunctional cytotoxic T lymphocyte (CTL) response. b | HLA-C protein isoforms vary broadly in their level of expression on the surface of infected cells. HLA-C alleles that do not have a binding site for microRNA-148a (miRNA-148a) in the 3′ untranslated region of their mRNAs escape suppression and present more peptide on the cell surface than alleles with an miRNA-148a binding site, resulting in the initiation of stronger CTL responses. c | Different HLA-A alleles express different amounts of HLA-A signal peptide, which positively correlates with HLA-E peptide expression. HLA-E interacts with the NKG2A receptor on the surface of natural killer (NK) cells and, when highly expressed, inhibits the killing of infected cells.
 
+Other people discussed the next sections:
+Figure 3.
+Dosage of CCR5 delta32, heterozygous protection, and homozygous are resistant to infections.
+Control of expression of a non-coding mRNA which protects CCT5 from degredation; higher expression, versus those with a SNP that lowers expression of the mRNA which in turn reduces CCR5 expression. 
+
+
