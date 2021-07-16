@@ -85,3 +85,14 @@ Dosage of CCR5 delta32, heterozygous protection, and homozygous are resistant to
 Control of expression of a non-coding mRNA which protects CCT5 from degredation; higher expression, versus those with a SNP that lowers expression of the mRNA which in turn reduces CCR5 expression. 
 
 
+
+## Figure 5
+[Figure 5 with legend](https://www.nature.com/articles/s41576-021-00378-0/figures/5)
+
+![Figure 5](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41576-021-00378-0/MediaObjects/41576_2021_378_Fig5_HTML.png)
+> Commonly used antiretroviral drugs target receptor binding, reverse transcription, integration and protease cleavage. Genetic variation in several human genes (in bold) have been shown to modify drug metabolism and contribute to adverse drug reactions (Table 1). CCR5, CC-chemokine receptor 5.
+
+
+
+
+
