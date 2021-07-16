@@ -58,5 +58,5 @@ The area under ROC curve was .65, thus a moderately high predictive power.
 The accuracy (proportion of all correctly identified cases) was 
 $$\frac{ 30 + 42 }{ 185 } = 39%$$
 
-$$\frac{\textt{No. cases above cutoff} + \textt{No. controls below cutoff }}{cohort total}$$.
+$$\frac{\text{No. cases above cutoff} + \text{No. controls below cutoff }}{cohort total}$$.
 
