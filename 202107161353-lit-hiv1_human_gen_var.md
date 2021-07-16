@@ -4,6 +4,23 @@
 * Nature Reviews Genetics (2021)
 * Published: 24 June 2021
 
+Sections that I am not reviewing, include the following notesL
+
+Variations in probability of infection.
+In this they go through the host genetics role for this probability.
+Fig 1. 
+Host CCR5 deletion modulating viral binding.
+Cell cycle, including binding, release of RNA, reverse transcription into viral DNA, and integration into human host.
+Possible to inhibit the viral parts of life cycle but not possiible to treat the integrated DNA part of life cycle.
+I am sure there are many papers about crispr type treatments in the future.
+Viral proteins degrated by proteasome and presented on MHC class I (encoded by HLA class I (HLA-B*57:01, HLA-C, HLA-A)).
+Presented to cytotoxic lymphocytes (CTL), and thereby eliminated by host immune response. 
+Many candidate gene studies done but most of them discovered not to be valid. 
+Only the CCR5 and HLA genes were statistically valid for assocciation in these early studies, and first GWAS. 
+
+
+
+
 ## Within-host diversity and epitope presentation
 
 Impact of specific class I HLA alleles on HIV progression
