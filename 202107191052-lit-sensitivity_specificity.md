@@ -17,6 +17,7 @@ i.e. How good is the scan for correct diagnosis?
 **Table 1. Relation between results of liver scan and correct diagnosis**
 
 | Liver scan	| Pathology | | | 
+|---|---|---|---|
 |				| Abnormal (+)		| Normal (-)	| Total |
 | Abnormal(+)	| 231				| 32			| 263 |
 | Normal(-)		| 27				| 54			| 81 |
