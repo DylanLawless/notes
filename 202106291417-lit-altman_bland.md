@@ -1,5 +1,5 @@
 ## Reviewing the series of BMJ Altman and Bland notes
-This page is cloned to keep a copy of the list for myself:
+This page is cloned from Prof Martin Bland's website to keep a copy of the list for myself:
 <https://www-users.york.ac.uk/~mb55/pubs/pbstnote.htm>
 
 This series is edited by
