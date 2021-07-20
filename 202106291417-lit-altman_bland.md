@@ -34,6 +34,7 @@ Statistics Notes published so far
 <a href="http://www.bmj.com/cgi/content/full/308/6933/896">
 Correlation, regression and repeated data.</a>
 <b>308</b>, 896.
+[Written up.](https://lawlessgenomics.com/topic/altman-bland-correlation)
 
 
 2. Bland JM, Altman DG. (1994)
@@ -44,6 +45,7 @@ towards the mean.</a> <b>308</b>, 1499.
 3. Altman DG, Bland JM. (1994)
 <a href="http://www.bmj.com/cgi/content/full/308/6943/1552">
 Diagnostic tests 1: sensitivity and specificity.</a> <b>308</b>, 1552.
+[Written up.](https://lawlessgenomics.com/topic/altman-bland-sensitivity-specificity)
 
 
 4. Altman DG, Bland JM. (1994)
@@ -54,6 +56,7 @@ Diagnostic tests 2: predictive values.</a> <b>309</b>, 102.
 5. Altman DG, Bland JM. (1994)
 <a href="http://www.bmj.com/cgi/content/full/309/6948/188">
 Diagnostic tests 3: receiver operating characteristic plots.</a> <b>309</b>, 188.
+[Written up.](https://lawlessgenomics.com/topic/altman-bland-roc-curve)
 
 
 6. Bland JM, Altman DG. (1994)
@@ -233,6 +236,7 @@ to randomise.</a> <b>319</b>, 703-4.
 42. Bland JM, Altman DG. (2000)
 <a href="http://www.bmj.com/cgi/content/full/320/7247/1468">The
 odds ratio.</a> <b>320</b>, 1468.
+[Written up.](https://lawlessgenomics.com/topic/altman-bland-odds-ratios)
 
 43. Day SJ and Altman DG. (2000)
 <a href="http://www.bmj.com/cgi/content/full/321/7259/504">Blinding
