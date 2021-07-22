@@ -62,3 +62,7 @@ Pruning removes SNPs in a way that may leave regions of the genome with no repre
 * An LD reference panel to identify SNPs that are in LD with the top signals from a GWAS. 
 * Sequentially chooses the top SNP, removes all SNPs in LD above some threshold within some window, then goes on to the next top hit and repeats the pruning process, until no more SNPs are left above the specified p-value threshold.
 
+<https://onlinelibrary.wiley.com/doi/full/10.1002/mpr.1608>
+> Clumping: This is a procedure in which only the most significant SNP (i.e., lowest p value) in each LD block is identified and selected for further analyses. This reduces the correlation between the remaining SNPs, while retaining SNPs with the strongest statistical evidence.
+
+> Pruning: This is a method to select a subset of markers that are in approximate linkage equilibrium. In PLINK, this method uses the strength of LD between SNPs within a specific window (region) of the chromosome and selects only SNPs that are approximately uncorrelated, based on a user-specified threshold of LD. In contrast to clumping, pruning does not take the p value of a SNP into account.
