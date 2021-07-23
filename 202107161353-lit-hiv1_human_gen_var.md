@@ -84,6 +84,11 @@ Figure 3.
 Dosage of CCR5 delta32, heterozygous protection, and homozygous are resistant to infections.
 Control of expression of a non-coding mRNA which protects CCT5 from degredation; higher expression, versus those with a SNP that lowers expression of the mRNA which in turn reduces CCR5 expression. 
 
+## G2G
+* Correct for phylo on the host side.
+* HLA assoc with epitopes on viral side.
+* Istvan and Paul did the work on HIV G2G I believe.
+
 
 ## HIV precision medicine
 ### Expanding antiretroviral therapy to eradicate HIV. 
